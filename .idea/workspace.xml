@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f2370ca-8c77-4b2a-bc27-b4e22d8c2e61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/connection_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/operator_router.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/img/14733481-cedd-49d7-91fe-a94bae9a274a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/img/532525da-6374-47e7-8607-dc3891f2eb80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/img/7266ce31-cfb8-4192-8030-bddf96798304.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/img/754a592f-aab9-4db3-9b74-298e76d9e08d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/img/7ed4bca7-5393-4511-8e6c-888cbe82a730.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/img/a6865ae7-9ad8-4284-ab21-aa639f5cfc6a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/img/ed5383bb-7a25-447a-94ae-de63590ee0da.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/static/img/fe063610-dc5f-4380-8954-3bd2161da734.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/task_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/tasks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Servce_desk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Service_desk.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fast.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service_desk.db" beforeDir="false" afterPath="$PROJECT_DIR$/service_desk.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/14733481-cedd-49d7-91fe-a94bae9a274a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/532525da-6374-47e7-8607-dc3891f2eb80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/7266ce31-cfb8-4192-8030-bddf96798304.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/754a592f-aab9-4db3-9b74-298e76d9e08d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/7ed4bca7-5393-4511-8e6c-888cbe82a730.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/a6865ae7-9ad8-4284-ab21-aa639f5cfc6a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/ed5383bb-7a25-447a-94ae-de63590ee0da.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/fe063610-dc5f-4380-8954-3bd2161da734.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/task_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/tasks.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;13Scorpion13&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/13Scorpion13/Service_Desk&quot;,
+    &quot;accountId&quot;: &quot;599d54d3-be20-4f5d-bd18-6aea53106299&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2plZm5EgmS1bfrO8XKc1Xos2gdv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.bot.executor": "Run",
+    "Python.fast.executor": "Run",
+    "Python.models.executor": "Run",
+    "Python.run.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f2370ca-8c77-4b2a-bc27-b4e22d8c2e61" name="Changes" comment="" />
+      <created>1733342778105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733342778105</updated>
+    </task>
+    <servers />
+  </component>
+</project>
